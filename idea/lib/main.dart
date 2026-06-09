@@ -40,7 +40,7 @@ class Idea extends StatelessWidget {
                 ),
               ),
               Text(
-                'App Programmer',
+                'App Developer',
                 style: TextStyle(
                   color: Colors.brown,
                   fontSize: 20,
